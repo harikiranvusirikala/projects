@@ -1,6 +1,6 @@
 # Media Watch List
 
-Webpage live in https://harikiranvusirikala.github.io/projects/CSS%20Portfolio/
+Webpage live in https://harikiranvusirikala.github.io/Media-Watch-List/
 
 ## About Angular
 
